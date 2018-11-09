@@ -6,3 +6,4 @@ Training data
 Test data
 The actual trained model (test set accuracy around 75%)
 A couple of test images
+Based on Keras implementation, Tensorflow backend
