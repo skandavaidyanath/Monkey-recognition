@@ -4,5 +4,5 @@ The repository contains:
 app.py : The code for the CNN
 Training data
 Test data
-The actual trained model (test set accuracy around 75 %)
+The actual trained model (test set accuracy around 75%)
 A couple of test images
