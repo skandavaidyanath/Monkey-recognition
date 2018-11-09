@@ -6,4 +6,5 @@ The repository contains:
 3) Test data
 4) The actual trained model (test set accuracy around 75%)
 5) A couple of test images.
+
 Based on Keras implementation, Tensorflow backend
